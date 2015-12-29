@@ -4,7 +4,7 @@ W = [1]
 a = [
 [O,O,O,O],
 [O,O,O,O],
-[w,W,W,O],
+[W,W,W,O],
 [W,W,O,O],
 [W,O,W,O],
 [W,W,W,O],
@@ -14,7 +14,7 @@ a = [
 
 b = [
 [O,O,W,O],
-[O,O,w,O],
+[O,O,W,O],
 [O,O,W,O],
 [O,W,W,O],
 [W,O,W,O],
